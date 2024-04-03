@@ -1,5 +1,5 @@
-<img href="./src/assets/ByteBurst.png"> 
-<img href="./src/assets/ByteBurst2.png">
+<img src="./src/assets/ByteBurst.png"> 
+<img src="./src/assets/ByteBurst2.png">
 # ByteBurst
 ByteBurst is an innovative online compiler designed to streamline coding experiences. With support for 6 programming languages, versatile text themes, and seamless code saving and download options, ByteBurst is your go-to platform for coding endeavors.
 
