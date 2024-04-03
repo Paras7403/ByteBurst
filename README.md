@@ -1,7 +1,8 @@
-<img src="./src/assets/ByteBurst.png"> 
-<img src="./src/assets/ByteBurst2.png">
 # ByteBurst
 ByteBurst is an innovative online compiler designed to streamline coding experiences. With support for 6 programming languages, versatile text themes, and seamless code saving and download options, ByteBurst is your go-to platform for coding endeavors.
+
+<img src="./src/assets/ByteBurst.png"> 
+<img src="./src/assets/ByteBurst2.png">
 
 # Features:
 1) Multi-Language Support: Code in 6 different programming languages.
