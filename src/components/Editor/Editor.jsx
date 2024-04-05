@@ -149,7 +149,7 @@ func main() {
         backgroundColor="background.default"
         sx={{
           display: "grid",
-          height: "auto", // "92vh"
+          height: "100vh", // "92vh"
           gridTemplateColumns: "repeat(12, 1fr)",
           gridGap: "0 20px",
           "& .ace_gutter": {
@@ -183,7 +183,7 @@ func main() {
           showPrintMargin={false}
           style={{
             gridColumn: "span 9",
-            height: "auto",
+            height: "100%",
             width: "100% ",
             // borderRight: "2px solid #2196F3",
             "& *": {
@@ -203,6 +203,7 @@ func main() {
         <div
           style={{
             gridColumn: "span 3",
+            height: "100vh",
             // display: "grid",
             gridTemplateRows: "auto 1fr auto",
             padding: "0px 0px",
@@ -421,7 +422,6 @@ func main() {
 }
 
 export default Editor;
-
 
 
 
