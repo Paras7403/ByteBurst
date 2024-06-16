@@ -16,10 +16,3 @@ ByteBurst is an innovative online compiler designed to streamline coding experie
 3) Save & Download: Save your code for later or download it directly.
 4) Responsive UI: Experience seamless coding on any device with ByteBurst's responsive design.
 
-# Technologies Used
-1) ReactJs
-2) NodeJs
-3) ExpressJs
-
-# Live Website
-[https://bburst.vercel.app]
